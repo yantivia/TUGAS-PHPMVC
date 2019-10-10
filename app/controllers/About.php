@@ -23,7 +23,6 @@ class About extends Controller {
 
 	}
 
-
 }
 
 

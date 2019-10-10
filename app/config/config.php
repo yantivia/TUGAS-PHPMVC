@@ -10,5 +10,4 @@ define('DB_PASS', '');
 define('DB_NAME', 'phpmvc');
 
 
-
  ?>
